@@ -8,7 +8,7 @@
 
 
 
-- Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
+- Municipality Data Analysis Dashboard: 
 
 ![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
 
