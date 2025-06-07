@@ -8,42 +8,6 @@
 
 
 
-- [x] **Hadoop (Hive)** - 
-  - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
-
-
-
-- [x] **SQL** - 
-  - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
-
-  - COVID-19 Dataset: Data Exploration  <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
-
-
-
-- [x] **PostgreSQL** - 
-  - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
-
-
-
-- [x] **Python** - 
-  - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
-
-
-
-- [x] **Tableau** - 
-
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
-
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
-
-![MakeoverMonday](visuals/WorkFromHome.png)  
-
 - Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
